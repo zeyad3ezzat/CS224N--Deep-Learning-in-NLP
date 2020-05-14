@@ -10,3 +10,6 @@ for more details you will need to open the python files
 You can find the details of the course here 
 http://web.stanford.edu/class/cs224n/
 
+
+you can reach me at:
+zeyad.3ezzat@gmail.com
